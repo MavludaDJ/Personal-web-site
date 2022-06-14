@@ -1,0 +1,154 @@
+body{
+  background-color: white;
+  margin: 0;
+  text-align: center;
+}
+.top-section{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  background-color: #37E2D5;
+}
+h1{
+  margin-top: 0px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+  font-size: 80px;
+  color:#6A67CE;
+}
+
+p{
+  font-size: 20px;
+  color:#40514E;
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-bottom: 50px;
+}
+.top{
+  height: 180px;
+  width: 180px;
+    position: relative;
+  left: 200px;
+  margin-top: 50px;
+}
+  .bottom{
+    height: 180px;
+    width:180px;
+    position: absolute;
+    left:300px;
+  }
+.mountain{
+  height: 350px;
+  width:30%;
+}
+.modified{
+  width:200px;
+  height:200px;
+  margin-top:40px;
+}
+h2{
+  color:#6A67CE;
+font-family: 'Nuosu SIL', serif;
+font-weight: 600px;
+font-size: 40px;
+
+}
+.hello{
+  font-size: 40px;
+font-family: 'Nuosu SIL', serif;
+
+
+}
+h3{
+  color:#6A67CE;
+  margin-left: 50px;
+
+}
+.contact-h{
+  font-size: 20px;
+  margin-left: 0;
+}
+
+
+hr{
+  border-style:  dotted none none none;
+  border-width: 5px;
+  width: 5%;
+  color:#6A67CE;
+  margin-bottom: 20px;
+}
+
+.paint{
+  width: 20%;
+  float: left;
+  margin-right: 60px;
+  margin-left: 60px;
+  padding-left: 40px;
+}
+.skills-heading{
+  font-size: 35px;
+  margin-bottom: 90px;
+
+}
+.book{
+  width: 20%;
+  float: right;
+  margin-right: 60px;
+  margin-left: 60px;
+  padding-right:  40px;
+
+}
+.skills-heading{
+font-family: 'Nuosu SIL', serif;
+  font-style: normal;
+}
+.skills{
+  width:50%;
+  margin:100px auto 100px auto;
+}
+.skills-p{
+  margin-left: 0;
+  margin-right: 0;
+
+}
+.skill-row{
+  text-align: left;
+}
+.skills-book{
+  margin-left: 0;
+  margin-right: 0;
+
+}
+.skill-row-one{
+  margin-bottom: 100px;
+  text-align: left;
+}
+.btn{
+  background-color: #11999E;
+  border: none;
+  color:white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 20%;
+}
+a{
+  color:white;
+}
+.bottom-container{
+background-color: #B7E5DD;
+padding: 50px;
+margin-bottom: 10px;
+height:100%;
+
+}
+.footer-link{
+  padding-top: 100px;
+  margin: 50px 30px;
+}
+.name{
+  color:white;
+}
